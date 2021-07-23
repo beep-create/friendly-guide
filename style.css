@@ -1,0 +1,40 @@
+body {
+    
+    color: black;
+    background-color:rgb(181, 228, 228);
+    font-family: Monaco;
+    font-weight: bold;
+    
+
+}
+.heading {
+    width: 80%;
+    font-size: 20px;
+    background-color: lightseagreen;
+    font-family: Monaco;
+    font-variant: small-caps;
+    
+}
+.name_of_objects {
+    color:lightsalmon;
+    font-family: Monaco;
+    font-variant: small-caps;
+    font-size:17px;
+}
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+.btn-success {
+    background-color:lightcoral;
+}
+#result_object_name, #result_object_accuracy{
+    color:indianred;
+
+}
+#web{
+    color: rgb(233, 127, 127);
+    font-family: courier;
+    font-size: 20px;
+}
